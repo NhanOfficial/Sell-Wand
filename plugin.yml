@@ -1,0 +1,11 @@
+name: SellWand
+main: NhanOfficial\sellwand\Main
+author: NhanOfficial
+api: 4.0.0
+version: 1.0.0
+depend: EconomyAPI
+
+permissions:
+ sellwand.use.command:
+  description: Allow the player use /sellwand command
+  default: true
